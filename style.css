@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(167, 239, 248);
+
+h1 {
+    color: rgb(56, 5, 56);
+    text-align: center;
+}
+h3 {
+    color: black;
+    text-align: center;
+}
+}
+table tr,th,td{
+border: 1px solid black;
+border-collapse: collapse;
+th style=width:70%;
+table style="width:100%";
+}
